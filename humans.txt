@@ -1,0 +1,19 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+ 
+ 
+/* TEAM */
+    Author: Ryan O'Shea
+    Site: http://ryanoshea.com/
+    Blog: http://post.ryanoshea.com/
+    Twitter: @ryancoshea
+    Location: Philadelphia
+ 
+/* THANKS */
+    Twitter, for Bootstrap
+ 
+/* SITE */
+    Standards: HTML5, CSS3
+    Components: jQuery, 
+    Software: Sublime Text 3
+    License: Creative Commons Creative Commons BY-SA 3.0 USA (http://creativecommons.org/licenses/by-sa/3.0/us/)
